@@ -1,0 +1,15 @@
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.csprojAssemblyReference.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.RESTApiForm.resources
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.csproj.GenerateResource.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.AssemblyInfoInputs.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.AssemblyInfo.cs
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.csproj.CoreCompileInputs.cache
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.exe
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.deps.json
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.runtimeconfig.json
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.runtimeconfig.dev.json
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.dll
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\bin\Debug\netcoreapp3.1\restAPI.pdb
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.dll
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.pdb
+C:\Users\jsnelson\Desktop\codeFiles\C-Sharp\consume-api\restAPI\restAPI\obj\Debug\netcoreapp3.1\restAPI.genruntimeconfig.cache
